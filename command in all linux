@@ -1,4 +1,6 @@
 ls [file and directory show]
 ls -a [hidden file show]
 ls -l [file in all permission show]
+mkdir dir [create directory]
+touch file [create file]
 
