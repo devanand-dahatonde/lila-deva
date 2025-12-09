@@ -1,7 +1,4 @@
 ls [file and directory show]
 ls -a [hidden file show]
 ls -l [file in all permission show]
-ps [processing file show]
-/etc/os-release [configuration file]
-/media [temparary mount point for storage device]
-/mnt [mount point for storage device]
+
